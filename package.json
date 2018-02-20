@@ -1,6 +1,6 @@
 {
   "name": "@blueeast/proxy-polyfill",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Polyfill for the Proxy object",
   "main": "proxy.js",
   "repository": {
