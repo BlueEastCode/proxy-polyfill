@@ -2,7 +2,7 @@
   "name": "@blueeast/proxy-polyfill",
   "version": "0.1.7",
   "description": "Polyfill for the Proxy object",
-  "main": "proxy.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GoogleChrome/proxy-polyfill.git"
